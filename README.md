@@ -1,5 +1,6 @@
 
-User Authentication System - MERN
+#User Authentication System - MERN
+
 This project is a user authentication system built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to register, log in, and log out, with an additional profile page that only logged-in users can access.
 
 Features
@@ -42,4 +43,3 @@ Node.js and Express.js for building the API and managing server-side logic.
 MongoDB and Mongoose for data storage and management.
 bcrypt.js for secure password hashing.
 jsonwebtoken for handling session-based authentication.
-License
